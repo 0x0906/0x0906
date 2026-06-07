@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vignesh
+# Vignesh M
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=2500&color=8A2BE2&center=true&vCenter=true&width=700&lines=Backend+Developer;Building+APIs+and+Web+Applications;Python+%7C+TypeScript+%7C+Node.js" />
 
