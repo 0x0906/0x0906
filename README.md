@@ -44,8 +44,6 @@ Currently exploring cloud technologies, system design, and software architecture
 **Cloud:** Vercel, Railway, Render  
 
 ## 📊 GitHub Stats
-<!-- Add GitHub stats cards -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x0906&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x0906&layout=compact&theme=tokyonight)
 
